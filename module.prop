@@ -1,0 +1,6 @@
+id=fix-caller-id
+name=Fix Caller ID issue
+version=v0.3
+versionCode=3
+author=uaevuon
+description=Disable reporting redirection call number prop

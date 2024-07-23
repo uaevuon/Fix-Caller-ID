@@ -1,0 +1,1 @@
+resetprop persist.vendor.radio.redir_party_num 0
